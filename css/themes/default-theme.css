@@ -1,97 +1,98 @@
 /*=======================================
 Template Design By MarkUps.
 Author URI : http://www.markups.io/
+Original Color : ba68c8;
 ========================================*/
 a {
-  color: #ba68c8;
+  color: #1da1f2;
 }
 
 .navbar-fixed nav {
-  background-color: #ba68c8;
+  background-color: #fcfcfc;
 }
 
 
 .side-nav li:hover{
-  background-color: #ba68c8;  
+  background-color: #1da1f2;  
 }
 .btn ,.btn-large{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .btn:hover, .btn-large:hover {
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .home-title span{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .about-inner-right>h3{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .personal-information>h3{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .title{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 
 .card-subtitle {
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .portfolio-top{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .filter {
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .filter:focus{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 #portfolio-list .mix:hover > a::before {
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .counter{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 
 .pro-bar-container.color-wisteria {
-  border-color: #ba68c8;
+  border-color: #1da1f2;
 }
 
 .pro-bar.color-amethyst {
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .call-to-about i{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 
 .blog-post .card-action a{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 
 .post-comment:hover{
-  color: #ba68c8 !important;
+  color: #1da1f2 !important;
 }
 
 .readmore-btn:hover{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 #experience{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 
 .card-title i {
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .customNavigation i{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 #testimonial{
-  background-color: #ba68c8;  
+  background-color: #1da1f2;  
 }
 .testimonial-content h3 {
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .footer-top{
-  background-color:#ba68c8; 
+  background-color:#1da1f2; 
 }
 input[type="text"]:focus:not([readonly]) + label,
 input[type="password"]:focus:not([readonly]) + label,
@@ -104,7 +105,7 @@ input[type="tel"]:focus:not([readonly]) + label,
 input[type="number"]:focus:not([readonly]) + label,
 input[type="search"]:focus:not([readonly]) + label,
 textarea.materialize-textarea:focus:not([readonly]) + label {
-  color: #ba68c8;
+  color: #1da1f2;
 }
 input[type="text"]:focus:not([readonly]),
 input[type="password"]:focus:not([readonly]),
@@ -117,63 +118,63 @@ input[type="tel"]:focus:not([readonly]),
 input[type="number"]:focus:not([readonly]),
 input[type="search"]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #ba68c8;
-  box-shadow: 0 1px 0 0 #ba68c8;
+  border-bottom: 1px solid #1da1f2;
+  box-shadow: 0 1px 0 0 #1da1f2;
 }
 .submit-btn{
-  color: #ba68c8;  
+  color: #1da1f2;  
 }
 .submit-btn:hover,
 .submit-btn:focus{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .overlay-header{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .blog-content blockquote {
-  border-left: 5px solid #ba68c8;
+  border-left: 5px solid #1da1f2;
 }
 .share-area h4 i,
 .tag-area h4 i {
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .share-area a:hover,
 .share-area a:focus{
-  color: #ba68c8;
+  color: #1da1f2;
 }
 .author-comments {
-  background-color: #ba68c8 !important;
+  background-color: #1da1f2 !important;
 }
 .reply-btn:hover{
-  background-color: #ba68c8; 
+  background-color: #1da1f2; 
 }
 .pagination li.active{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .card .card-action a {
-  color: #ba68c8;  
+  color: #1da1f2;  
 }
 .tagcloud a:hover,
 .tagcloud a:focus{
   color: #fff;
-  background-color: #ba68c8;
-  border-color: #ba68c8;
+  background-color: #1da1f2;
+  border-color: #1da1f2;
 }
 .prev-post:hover,
 .prev-post:focus,
 .next-post:hover,
 .next-post:focus{
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 .submit-btn{
-  color: #ba68c8;  
+  color: #1da1f2;  
 }
 .side-nav li:hover,
 .side-nav li.active {
-  background-color: #ba68c8; 
+  background-color: #1da1f2; 
 }
 .progress .indeterminate {
-  background-color: #ba68c8;
+  background-color: #1da1f2;
 }
 /*=======================================
 Template Design By MarkUps.
