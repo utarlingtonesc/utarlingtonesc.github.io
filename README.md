@@ -14,6 +14,7 @@ Feel free to contribute to this repository, any help will be apreciated ^_^! To 
 * Vote Polls
 * Officers contact informations
 * Photo Gallery
+* ESC Newsletter
 * ESC Apparel
 
 ## UI Prototypes
