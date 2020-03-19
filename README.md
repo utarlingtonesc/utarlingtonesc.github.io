@@ -4,7 +4,7 @@ This repository hosts files for the ESC at UT Arlington's Official Website.
 
 ## Usage
 
-Feel free to contribute to this repository, any help will be apreciated ^_^. To be added as a contributor to this repository, please email us at utarlington.esc@gmail.com and make sure to include your GitHub identifier in your correspondence. (Note: Only UT Arlington students are eligible to contribute and commit code).
+Feel free to contribute to this repository, any help will be apreciated ^_^! To be added as a contributor to this repository, please email us at utarlington.esc@gmail.com and make sure to include your GitHub identifier in your correspondence. (Note: Only UT Arlington students are eligible to contribute and commit code).
 
 
 ## Functionalities
